@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@plugin "daisyui" {
+    themes: all
+}
+
+.ProseMirror {
+    border: none;
+    outline: none;
+    box-shadow: none;
+    min-height: 100%;
+}
